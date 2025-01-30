@@ -13,7 +13,7 @@ https://github.com/Joel-Mwaga/Photography.git
 
 # CONTACT US AT
 gmail:mwagahjoel14@gmail.com
-phone:+254791166009
+<p>phone:+254791166009</p>
 
 # copyright and lisence
 <p>&copy; 2025 Photos Corp. All rights reserved.</p>
