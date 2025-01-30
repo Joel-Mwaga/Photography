@@ -2,6 +2,7 @@
 A place that offers the best services available
 
 # CREATOR
+JOEL MWAGA
 An experienced website developer 
 
 # PROJECT DESCRIPTION
