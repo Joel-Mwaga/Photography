@@ -3,7 +3,7 @@ A place that offers the best services available
 
 # CREATOR
 JOEL MWAGA
-An experienced website developer 
+<p>An experienced website developer </p>
 
 # PROJECT DESCRIPTION
 A photography site that gives you freedom to edit your photos and shows you the best edited photos from the site 
