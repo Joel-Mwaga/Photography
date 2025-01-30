@@ -16,5 +16,5 @@ gmail:mwagahjoel14@gmail.com
 phone:+254791166009
 
 # copyright and lisence
-<p>&copy; 2025 Akan Name Generator. All rights reserved.</p>
+<p>&copy; 2025 Photos Corp. All rights reserved.</p>
 Licensed under the MIT License.
